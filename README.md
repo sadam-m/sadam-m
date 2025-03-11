@@ -37,8 +37,7 @@
 
 ---
 
-## 📊 **GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadam-m&theme=tokyonight)  
+## 📊 **GitHub Stats** 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadam-m&layout=compact&theme=tokyonight)  
 
 ---
