@@ -28,6 +28,8 @@
 🔹 Developed a **high-performance REST API** using **Express.js**, improving **data retrieval speed by 40%**.  
 🔹 Integrated **Redis caching** in a **Node.js** app to improve performance and database efficiency.  
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/sadamhussain-m/CS546-Group29-FinalProject)
+
 ### 💳 Banking System API *(Intellect Design Arena, 2021-2022)*
 🔹 Designed a **Spring Boot REST API** to filter customer records, reducing query execution time by **50%**.  
 🔹 Developed a **PDF export feature** using **Jasper Reports**, improving team productivity by **40%**.  
